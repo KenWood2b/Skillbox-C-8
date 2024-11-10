@@ -1,0 +1,14 @@
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual Programming.WPTBWpfApp.csproj.AssemblyReference.cache
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\MainWindow.g.cs
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\App.g.cs
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual Programming.WPTBWpfApp_MarkupCompile.cache
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\bin\Debug\Visual Programming.WPTBWpfApp.exe.config
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\bin\Debug\Visual Programming.WPTBWpfApp.exe
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\bin\Debug\Visual Programming.WPTBWpfApp.pdb
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\MainWindow.baml
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual Programming.WPTBWpfApp.g.resources
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual_Programming.WPTBWpfApp.Properties.Resources.resources
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual Programming.WPTBWpfApp.csproj.GenerateResource.cache
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual Programming.WPTBWpfApp.csproj.CoreCompileInputs.cache
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual Programming.WPTBWpfApp.exe
+D:\C#\Visual Programming.WPTBWpfApp\Visual Programming.WPTBWpfApp\obj\Debug\Visual Programming.WPTBWpfApp.pdb
